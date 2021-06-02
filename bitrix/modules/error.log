@@ -1,0 +1,2056 @@
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; messageservice has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/messageservice/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; perfmon has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/perfmon/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; photogallery has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/photogallery/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; pull has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/pull/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; rest has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/rest/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; search has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/search/install/index.php:4
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; security has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/security/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; sender has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/sender/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; seo has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/seo/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; socialservices has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/socialservices/install/index.php:4
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; storeassist has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/storeassist/install/index.php:4
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; subscribe has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/subscribe/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:11 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; vote has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/vote/install/index.php:9
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2457
+#5: CAdminMainChain->Init()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:2470
+#6: CAdminMainChain->AddItem(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1592
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CMpNotifications::OnAdminInformerInsertItemsHandlerMP() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/admin_informer.php:293
+#1: CAdminInformer::InsertMainItems()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/top_panel.php:300
+#2: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:127
+#3: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#4: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1622
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CIBlockPropertyTopicID::GetUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblockproperty.php:995
+#1: CAllIBlockProperty::GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblockpropresult.php:33
+#2: CIBlockPropertyResult->Fetch()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:1725
+#3: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::HandleForTemplate() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:31
+#0: CSnippets::LoadList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:610
+#1: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#2: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#3: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#4: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#5: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2488
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::ReadDir() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:52
+#0: CSnippets::HandleForTemplate(string, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:31
+#1: CSnippets::LoadList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:610
+#2: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#3: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#4: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#5: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#6: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2488
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::HandleForTemplate() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:33
+#0: CSnippets::LoadList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:610
+#1: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#2: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#3: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#4: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#5: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2488
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::ReadDir() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:52
+#0: CSnippets::HandleForTemplate(string, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:33
+#1: CSnippets::LoadList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:610
+#2: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#3: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#4: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#5: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#6: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2488
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::InspectDir() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:376
+#0: CSnippets::GetGroupList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:618
+#1: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#2: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#3: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#4: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#5: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2488
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::GetDefaultFileName() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:621
+#0: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#1: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#2: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#3: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#4: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2488
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::HandleForTemplate() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:31
+#0: CSnippets::LoadList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:610
+#1: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#2: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#3: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#4: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#5: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2593
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::ReadDir() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:52
+#0: CSnippets::HandleForTemplate(string, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:31
+#1: CSnippets::LoadList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:610
+#2: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#3: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#4: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#5: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#6: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2593
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::HandleForTemplate() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:33
+#0: CSnippets::LoadList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:610
+#1: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#2: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#3: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#4: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#5: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2593
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::ReadDir() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:52
+#0: CSnippets::HandleForTemplate(string, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:33
+#1: CSnippets::LoadList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:610
+#2: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#3: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#4: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#5: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#6: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2593
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::InspectDir() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/snippets.php:376
+#0: CSnippets::GetGroupList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:618
+#1: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#2: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#3: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#4: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#5: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2593
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CSnippets::GetDefaultFileName() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:621
+#0: CHTMLEditor::GetSnippets(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:310
+#1: CHTMLEditor->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/classes/general/html_editor.php:500
+#2: CHTMLEditor->Show(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1476
+#3: CFileMan::ShowHTMLEditControl(string, string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/fileman/fileman.php:1389
+#4: CFileMan::AddHTMLEditorFrame(string, string, string, string, array, string, integer, string, string, string, boolean, array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:2593
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeHlblock::getEntityReferences() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:3134
+#0: CUserTypeManager->getEntityReferences(array, object)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/userfield.php:416
+#1: Bitrix\Main\UserFieldTable::createUtsEntity(object, array, array, string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/userfield.php:273
+#2: Bitrix\Main\UserFieldTable::attachFields(object, string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:315
+#3: Bitrix\Main\ORM\Entity->postInitialize()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:126
+#4: Bitrix\Main\ORM\Entity::getInstanceDirect(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:104
+#5: Bitrix\Main\ORM\Entity::getInstance(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:81
+#6: Bitrix\Main\ORM\Data\DataManager::getEntity()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:320
+#7: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getInputField(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:396
+#8: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getProductFieldWeightRow()
+	
+#9: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:97
+#10: Bitrix\Catalog\Grid\Panel\ProductGroupAction->actionProductFieldPanel(array)
+	
+#11: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:111
+#12: Bitrix\Iblock\Grid\Panel\GroupAction->get(string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:85
+#13: Bitrix\Iblock\Grid\Panel\GroupAction->getList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/templates/iblock_subelement_list.php:2862
+#14: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:3163
+#15: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:12 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeHlblock::getEntityReferences() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:3134
+#0: CUserTypeManager->getEntityReferences(array, object)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/userfield.php:314
+#1: Bitrix\Main\UserFieldTable::attachFields(object, string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:315
+#2: Bitrix\Main\ORM\Entity->postInitialize()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:126
+#3: Bitrix\Main\ORM\Entity::getInstanceDirect(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:104
+#4: Bitrix\Main\ORM\Entity::getInstance(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:81
+#5: Bitrix\Main\ORM\Data\DataManager::getEntity()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:320
+#6: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getInputField(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:396
+#7: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getProductFieldWeightRow()
+	
+#8: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:97
+#9: Bitrix\Catalog\Grid\Panel\ProductGroupAction->actionProductFieldPanel(array)
+	
+#10: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:111
+#11: Bitrix\Iblock\Grid\Panel\GroupAction->get(string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:85
+#12: Bitrix\Iblock\Grid\Panel\GroupAction->getList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/templates/iblock_subelement_list.php:2862
+#13: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_edit.php:3163
+#14: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_edit.php:1
+----------
+2021-06-02 13:51:15 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; _CIBlockError has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin_tools.php:646
+#0: require_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_templates.ajax.php:10
+#1: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_templates.ajax.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; _CIBlockError has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin_tools.php:646
+#0: require_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/prolog.php:5
+#1: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:16
+#2: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CIBlockPropertyTopicID::GetUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblockproperty.php:995
+#1: CAllIBlockProperty::GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:258
+#2: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeHlblock::GetUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeString::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeInteger::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeDouble::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeDateTime::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeDate::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeBoolean::GetUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method Bitrix\Fileman\UserField\Address::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeUrl::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeFile::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeEnum::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeIBlockSection::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeIBlockElement::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; CVoteDiagramType has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/vote/classes/general/channel.php:491
+#0: require_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/vote/classes/mysql/channel.php:8
+#1: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/vote/include.php:7
+#2: include_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/loader.php:184
+#3: Bitrix\Main\Loader::includeModuleInternal(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/loader.php:140
+#4: Bitrix\Main\Loader::includeModule(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:251
+#5: CModule::IncludeModule(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:434
+#6: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#7: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#8: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#9: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#10: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#11: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeStringFormatted::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeHlblock::getEntityReferences() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:3134
+#0: CUserTypeManager->getEntityReferences(array, object)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/userfield.php:416
+#1: Bitrix\Main\UserFieldTable::createUtsEntity(object, array, array, string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/userfield.php:273
+#2: Bitrix\Main\UserFieldTable::attachFields(object, string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:315
+#3: Bitrix\Main\ORM\Entity->postInitialize()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:126
+#4: Bitrix\Main\ORM\Entity::getInstanceDirect(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:104
+#5: Bitrix\Main\ORM\Entity::getInstance(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:81
+#6: Bitrix\Main\ORM\Data\DataManager::getEntity()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:320
+#7: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getInputField(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:396
+#8: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getProductFieldWeightRow()
+	
+#9: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:97
+#10: Bitrix\Catalog\Grid\Panel\ProductGroupAction->actionProductFieldPanel(array)
+	
+#11: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:111
+#12: Bitrix\Iblock\Grid\Panel\GroupAction->get(string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:85
+#13: Bitrix\Iblock\Grid\Panel\GroupAction->getList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:3997
+#14: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeHlblock::getEntityReferences() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:3134
+#0: CUserTypeManager->getEntityReferences(array, object)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/userfield.php:314
+#1: Bitrix\Main\UserFieldTable::attachFields(object, string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:315
+#2: Bitrix\Main\ORM\Entity->postInitialize()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:126
+#3: Bitrix\Main\ORM\Entity::getInstanceDirect(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:104
+#4: Bitrix\Main\ORM\Entity::getInstance(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:81
+#5: Bitrix\Main\ORM\Data\DataManager::getEntity()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:320
+#6: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getInputField(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:396
+#7: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getProductFieldWeightRow()
+	
+#8: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:97
+#9: Bitrix\Catalog\Grid\Panel\ProductGroupAction->actionProductFieldPanel(array)
+	
+#10: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:111
+#11: Bitrix\Iblock\Grid\Panel\GroupAction->get(string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:85
+#12: Bitrix\Iblock\Grid\Panel\GroupAction->getList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:3997
+#13: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; advertising has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/advertising/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; b24connector has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/b24connector/install/index.php:9
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; bitrixcloud has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/bitrixcloud/install/index.php:8
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; blog has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/blog/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; clouds has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/clouds/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; conversion has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/conversion/install/index.php:13
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; form has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/form/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; messageservice has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/messageservice/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; perfmon has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/perfmon/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; photogallery has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/photogallery/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; pull has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/pull/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; rest has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/rest/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; search has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/search/install/index.php:4
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; security has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/security/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; sender has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/sender/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; seo has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/seo/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; socialservices has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/socialservices/install/index.php:4
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; storeassist has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/storeassist/install/index.php:4
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; subscribe has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/subscribe/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; vote has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/vote/install/index.php:9
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:51:16 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CMpNotifications::OnAdminInformerInsertItemsHandlerMP() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/admin_informer.php:293
+#1: CAdminInformer::InsertMainItems()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/top_panel.php:300
+#2: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:127
+#3: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#4: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CIBlockPropertyTopicID::GetUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblockproperty.php:995
+#1: CAllIBlockProperty::GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:258
+#2: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeHlblock::GetUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeString::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeInteger::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeDouble::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeDateTime::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeDate::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeBoolean::GetUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method Bitrix\Fileman\UserField\Address::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeUrl::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeFile::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeEnum::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeIBlockSection::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeIBlockElement::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeStringFormatted::getUserTypeDescription() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:954
+#1: CUserTypeManager->GetUserType(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:1063
+#2: CUserTypeManager->GetUserFields(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/mysql/iblocksection.php:439
+#3: CIBlockSection::GetList(array, array, boolean, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/classes/general/iblocksection.php:161
+#4: CAllIBlockSection::GetTreeList(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:341
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeHlblock::getEntityReferences() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:3134
+#0: CUserTypeManager->getEntityReferences(array, object)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/userfield.php:416
+#1: Bitrix\Main\UserFieldTable::createUtsEntity(object, array, array, string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/userfield.php:273
+#2: Bitrix\Main\UserFieldTable::attachFields(object, string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:315
+#3: Bitrix\Main\ORM\Entity->postInitialize()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:126
+#4: Bitrix\Main\ORM\Entity::getInstanceDirect(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:104
+#5: Bitrix\Main\ORM\Entity::getInstance(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:81
+#6: Bitrix\Main\ORM\Data\DataManager::getEntity()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:320
+#7: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getInputField(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:396
+#8: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getProductFieldWeightRow()
+	
+#9: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:97
+#10: Bitrix\Catalog\Grid\Panel\ProductGroupAction->actionProductFieldPanel(array)
+	
+#11: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:111
+#12: Bitrix\Iblock\Grid\Panel\GroupAction->get(string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:85
+#13: Bitrix\Iblock\Grid\Panel\GroupAction->getList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:3997
+#14: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CUserTypeHlblock::getEntityReferences() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/usertype.php:3134
+#0: CUserTypeManager->getEntityReferences(array, object)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/userfield.php:314
+#1: Bitrix\Main\UserFieldTable::attachFields(object, string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:315
+#2: Bitrix\Main\ORM\Entity->postInitialize()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:126
+#3: Bitrix\Main\ORM\Entity::getInstanceDirect(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/entity.php:104
+#4: Bitrix\Main\ORM\Entity::getInstance(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:81
+#5: Bitrix\Main\ORM\Data\DataManager::getEntity()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:320
+#6: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getInputField(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:396
+#7: Bitrix\Catalog\Grid\Panel\ProductGroupAction->getProductFieldWeightRow()
+	
+#8: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/catalog/lib/grid/panel/productgroupaction.php:97
+#9: Bitrix\Catalog\Grid\Panel\ProductGroupAction->actionProductFieldPanel(array)
+	
+#10: call_user_func_array(array, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:111
+#11: Bitrix\Iblock\Grid\Panel\GroupAction->get(string, array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/lib/grid/panel/groupaction.php:85
+#12: Bitrix\Iblock\Grid\Panel\GroupAction->getList(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:3997
+#13: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; advertising has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/advertising/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; b24connector has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/b24connector/install/index.php:9
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; bitrixcloud has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/bitrixcloud/install/index.php:8
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; blog has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/blog/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; clouds has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/clouds/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; conversion has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/conversion/install/index.php:13
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; form has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/form/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; messageservice has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/messageservice/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; perfmon has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/perfmon/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; photogallery has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/photogallery/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; pull has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/pull/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; rest has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/rest/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; search has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/search/install/index.php:4
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; security has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/security/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; sender has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/sender/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; seo has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/seo/install/index.php:6
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; socialservices has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/socialservices/install/index.php:4
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; storeassist has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/storeassist/install/index.php:4
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; subscribe has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/subscribe/install/index.php:5
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Methods with the same name as their class will not be constructors in a future version of PHP; vote has a deprecated constructor (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/vote/install/index.php:9
+#0: include_once
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:295
+#1: CModule::CreateModuleObject(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/admin/menu.php:227
+#2: include(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:918
+#3: CAdminMenu->_IncludeMenu(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/admin_lib.php:688
+#4: CAdminMenu->Init(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:32
+#5: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#6: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#7: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------
+2021-06-02 13:55:26 - Host: f0543427.xsph.ru - LOW_PRIORITY_ERROR - [ErrorException] E_DEPRECATED
+Non-static method CMpNotifications::OnAdminInformerInsertItemsHandlerMP() should not be called statically (0)
+/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/module.php:480
+#0: ExecuteModuleEventEx(array)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/classes/general/admin_informer.php:293
+#1: CAdminInformer::InsertMainItems()
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/top_panel.php:300
+#2: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/interface/prolog_main_admin.php:127
+#3: require_once(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/main/include/prolog_admin_after.php:15
+#4: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/modules/iblock/admin/iblock_element_admin.php:4139
+#5: require(string)
+	/home/f0543427/domains/f0543427.xsph.ru/public_html/bitrix/admin/iblock_element_admin.php:1
+----------

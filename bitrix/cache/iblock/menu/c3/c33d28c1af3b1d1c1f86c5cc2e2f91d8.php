@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001622560936';
-$dateexpire = '001622596936';
+$datecreate = '001622629209';
+$dateexpire = '001622665209';
 $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:15:{i:2481280243;a:2:{s:7:"PICTURE";s:78:"/upload/resize_cache/iblock/9ba/240_700_1/988b0aae0bead770b40cdb5a388906ff.jpg";s:11:"DESCRIPTION";s:569:"Сложно представить себе элементы гардероба современного человека, которые выбирались бы более тщательно и основательно, чем обувь. Это больше, чем просто стильный аксессуар: ботинки, сапоги, туфли и другие модели выполняют очень важную функцию – они отвечают за комфорт, а иногда и за здоровье ног.<br />
 					<br />
 				";}i:996868869;a:2:{s:7:"PICTURE";s:55:"/upload/iblock/1ad/f201e9879037b55354345a462e22a1e0.jpg";s:11:"DESCRIPTION";s:0:"";}i:3174689294;a:2:{s:7:"PICTURE";s:78:"/upload/resize_cache/iblock/55d/240_700_1/594f84b4f58d69c4f36ec9360e52e683.jpg";s:11:"DESCRIPTION";s:0:"";}i:2269767505;a:2:{s:7:"PICTURE";s:78:"/upload/resize_cache/iblock/3d3/240_700_1/720d5f4babefc80d1837a0fd3b88b094.jpg";s:11:"DESCRIPTION";s:0:"";}i:2961461559;a:2:{s:7:"PICTURE";s:78:"/upload/resize_cache/iblock/e2c/240_700_1/b7523da59baf9477f2a5a834fc921cc9.jpg";s:11:"DESCRIPTION";s:0:"";}i:1018641679;a:2:{s:7:"PICTURE";s:78:"/upload/resize_cache/iblock/9ec/240_700_1/dc84e470162fb8eba6561f67358317a3.jpg";s:11:"DESCRIPTION";s:0:"";}i:296299480;a:2:{s:7:"PICTURE";s:78:"/upload/resize_cache/iblock/c9f/240_700_1/acabac78d46909f97cffffbca6ae735d.jpg";s:11:"DESCRIPTION";s:469:"Без аксессуаров вряд ли получится создать стильный, завершенный и индивидуальный образ. Важно обращать внимание на то, насколько гармонично такие элементы будут смотреться в сочетании с тем или иным стилем в одежде, в рамках какого-либо мероприятия.<br />
